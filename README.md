@@ -20,3 +20,9 @@ part5
 
 
 https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/ed3efbcf-2e8e-4be1-a2b6-ba7624e4bd99/view?access_token=cea5467c232c539bcd7a5a50ceeb726cab5bb0e01b818c99e2fc73003e7e5eed
+
+part6 capstone
+
+https://coursera-assessments.s3.amazonaws.com/assessments/1618665387342/d3b66e20-8db5-473a-db43-d8f064d93292/q6%5B1%5D.pdf
+
+
