@@ -10,3 +10,8 @@ https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/35fafa60-32c5-4b9f-8f6
 part3
 
 https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/e00c73a3-2360-4c78-9c67-644e5e8daf2e/view?access_token=ca22e82c6dccf374433da0984bfa24bd5ab48051254b89513e0765ef0d946292
+
+
+part4
+
+https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/bf24854f-5725-412e-af4f-92ea8ef00461/view?access_token=a8b4258f55d599abe4f869e4114a1c3cfd2d2305f86f586ace79885bf4fa5758
