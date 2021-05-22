@@ -5,3 +5,8 @@ https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/a1b70952-cf28-42b9-a07
 part2
 
 https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/35fafa60-32c5-4b9f-8f69-4b3922409c9c/view?projectid=bda7bc7c-33ea-452e-b650-088b378d5d72&context=cpdaas
+
+
+part3
+
+https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/e00c73a3-2360-4c78-9c67-644e5e8daf2e/view?access_token=ca22e82c6dccf374433da0984bfa24bd5ab48051254b89513e0765ef0d946292
