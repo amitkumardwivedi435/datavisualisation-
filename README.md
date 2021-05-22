@@ -15,3 +15,7 @@ https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/e00c73a3-2360-4c78-9c6
 part4
 
 https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/bf24854f-5725-412e-af4f-92ea8ef00461/view?access_token=a8b4258f55d599abe4f869e4114a1c3cfd2d2305f86f586ace79885bf4fa5758
+
+capstone project
+
+https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/be9dc542-954f-43a3-99d9-9464516fc458/view?access_token=3e3bc1d92000acd5ae83b34c344f8d0d3e136dc7c5250e6817b7dc7e4e934fef
